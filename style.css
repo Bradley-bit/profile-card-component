@@ -24,11 +24,16 @@ h2 {
     margin: 10px 0 0 0;
 }
 
+p {
+    margin-bottom: 10px;
+}
+
 /* Light grey text */
 .light-text {
     color: hsl(227, 10%, 46%);
     font-weight: 300;
 }
+
 
 
 .card {
