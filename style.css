@@ -11,3 +11,10 @@ body {
     align-items: center;
     background-color: hsl(185, 75%, 39%);
 }
+
+.card {
+    background-color: hsl(225, 10%, 92%);
+    padding: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
