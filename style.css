@@ -10,6 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: hsl(185, 75%, 39%);
+    font-family:'Kumbh Sans';
 }
 
 h1 {
