@@ -34,7 +34,10 @@ p {
     color: hsl(227, 10%, 46%);
     font-weight: 300;
 }
-
+/* bold text */
+.bold-text {
+    font-weight: 700;
+}
 
 
 .card {
