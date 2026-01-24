@@ -38,7 +38,30 @@ p {
 .bold-text {
     font-weight: 700;
 }
+.top-img{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height: 500px;
+    background-image: url("./images/bg-pattern-top.svg");
+    background-position: cover;
+    background-repeat: no-repeat;
+    z-index: -1;
+    transform: rotate(180deg);
+}
 
+.bottom-img{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 1000px;
+    height: 500px;
+    background-image: url("./images/bg-pattern-top.svg");
+    background-position: cover;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
 
 .card {
     background-color: hsl(225, 10%, 92%);
